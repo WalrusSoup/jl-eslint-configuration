@@ -1,0 +1,14 @@
+{
+  "name": "jl-eslint-configuration",
+  "version": "1.0.0",
+  "description": "Contains my preferred eslint, prettier settings for vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 8.7"
+  }
+}
