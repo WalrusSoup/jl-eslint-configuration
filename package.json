@@ -1,6 +1,6 @@
 {
-  "name": "jl-eslint-configuration",
-  "version": "1.0.0",
+  "name": "eslint-config-jl",
+  "version": "1.0.1",
   "description": "Contains my preferred eslint, prettier settings for vue",
   "main": "index.js",
   "scripts": {
